@@ -29,7 +29,7 @@
 
         "DB_CONNECTION" : "mongodb",
         "DB_URI" : "mongodb+srv://dbentrepisos:tesisentrepisos@entrepisos-app.soxw3.mongodb.net/entrepisos-app?retryWrites=true&w=majority",
-        "SESSION_DRIVER": "database",
+        "SESSION_DRIVER": "cookie",
         "SESSION_LIFETIME":"120",
         "SESSION_ENCRYPT":"false",
         "SESSION_PATH":"/",
