@@ -30,7 +30,6 @@
         "SESSION_DOMAIN":null,
 
         "CACHE_DRIVER": "array",
-        "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie"
+        "LOG_CHANNEL": "stderr"
     }
 }
